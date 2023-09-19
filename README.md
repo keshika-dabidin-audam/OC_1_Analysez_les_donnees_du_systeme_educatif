@@ -28,5 +28,5 @@ Les données de la Banque mondiale sont disponibles à l’adresse suivante : ht
 
 ## Livrables
 - Un notebook comportant les analyses pré-exploratoires réalisées : Projet 2 - Academy - Analyse de données exploratoires-pré-finale (1).ipynb ou Projet 2 - Academy - Analyse de données exploratoires-pré-finale (1).html
-- Un support de présentation pour la soutenance : 
+- Un support de présentation pour la soutenance : Openclassroom - Projet 2 - Academy.pptx (1).pdf
 
