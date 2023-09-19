@@ -26,3 +26,7 @@ L’organisme “EdStats All Indicator Query” de la Banque mondiale répertori
 
 Les données de la Banque mondiale sont disponibles à l’adresse suivante : https://datacatalog.worldbank.org/dataset/education-statistics
 
+## Livrables
+- Un notebook comportant les analyses pré-exploratoires réalisées : 
+- Un support de présentation pour la soutenance : 
+
